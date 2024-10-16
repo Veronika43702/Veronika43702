@@ -31,8 +31,8 @@ Android-разработчик
 ![MVI](https://img.shields.io/badge/MVI-3258a8?style=for-the-badge)
 
 #### Other libraries | Другие библиотеки
-![Coroutines](https://img.shields.io/badge/coroutines-7F52FF?style=for-the-badge)
-![Serialization](https://img.shields.io/badge/serialization-7F52FF?style=for-the-badge)
+![Coroutines](https://img.shields.io/badge/coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Serialization](https://img.shields.io/badge/serialization-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Gson](https://img.shields.io/badge/gson-f7940a?style=for-the-badge)
 
 #### Databases libraries | Библиотеки для работы с базами данных
@@ -41,7 +41,8 @@ Android-разработчик
 
 #### Network | Сеть
 ![Retrogfit](https://img.shields.io/badge/retrofit-48B983?style=for-the-badge)
-![OKHttp](https://img.shields.io/badge/okhttp-38BBA4?style=for-the-badge) 
+![OKHttp](https://img.shields.io/badge/okhttp-38BBA4?style=for-the-badge)
+![Ktor](https://img.shields.io/badge/ktor-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 #### DI | Зависимости
 ![Dagger](https://img.shields.io/badge/dagger-009639?style=for-the-badge)
