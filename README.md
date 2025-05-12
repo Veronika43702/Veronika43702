@@ -52,6 +52,7 @@ Android-developer
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![GitLab](https://img.shields.io/badge/GitLab-black?style=for-the-badge&logo=gitlab)
+![BitBucket](https://img.shields.io/badge/-BitBucket-0747a6?style=for-the-badge&logo=BitBucket&logoColor=white) 
 
 #### API
 ![Yandex Maps](https://img.shields.io/badge/Yandex_maps-f5da42?style=for-the-badge&logo=googlemaps&logoColor=red)
@@ -59,6 +60,8 @@ Android-developer
 
 
 #### Others instruments
+![Jira](https://img.shields.io/badge/-Jira-0747a6?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/-Confluence-0747a6?style=for-the-badge&logo=Confluence&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
