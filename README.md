@@ -12,6 +12,11 @@ Android-developer
 ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-E86D03?style=for-the-badge&logo=openjdk)
 
+#### Projects
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
+![KMP](https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) 
+![Android&ios](https://img.shields.io/badge/ios-android-3DDC84?style=plastic)
+
 #### UI Instruments
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-black?style=for-the-badge&logo=jetpackcompose) 
 ![XML](https://img.shields.io/badge/XML-black?style=for-the-badge&logo=xml)
@@ -42,6 +47,7 @@ Android-developer
 #### DI
 ![Dagger](https://img.shields.io/badge/dagger-009639?style=for-the-badge)
 ![Hilt](https://img.shields.io/badge/hilt-005721?style=for-the-badge) 
+![Koin](https://img.shields.io/badge/koin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 #### Version control
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
@@ -51,8 +57,6 @@ Android-developer
 
 #### API
 ![Yandex Maps](https://img.shields.io/badge/Yandex_maps-f5da42?style=for-the-badge&logo=googlemaps&logoColor=red)
-![Google Maps](https://img.shields.io/badge/Google_maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
-
 
 #### Others instruments
 ![Jira](https://img.shields.io/badge/-Jira-0747a6?style=for-the-badge&logo=jira&logoColor=white)
@@ -60,11 +64,19 @@ Android-developer
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Pixso](https://img.shields.io/badge/pixso-6428B4.svg?style=for-the-badge&logo=picsart&logoColor=EA4AAA) 
 
 
 ---
 
 ### 📂 My projects
+#### 2025
+- 🌍 KMP library for Yandex mapkit map
+[github.com/Veronika43702/yandex-mapkit-kmp](https://github.com/Veronika43702/yandex-mapkit-kmp).  
+KMP library enables to use Yandex mapkit API in KMP projects for both android and ios platforms, using composable functions.
+Initial realization for lite version was developed by [SuLG-ik](https://github.com/SuLG-ik) in [SuLG-ik/yandex-mapkit-kmp](https://github.com/SuLG-ik/yandex-mapkit-kmp) project.
+My library enables to set basic navigation buttons for map and adds functionality for mapkit full version.
+
 #### 2024
 - ✈️ SkyPaws - app for pilots 
 [github.com/Veronika43702/SkyPaws](https://github.com/Veronika43702/SkyPaws).  
