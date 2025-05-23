@@ -2,11 +2,6 @@
 Android-developer
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHo2dXBzbThmMnd0cTR1Zm1uMm04amUxYWJxOGY2YTNldjVxY2tzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="40">
 
-#### Education
-* Bachelor's degree: Flight operation of civil aircraft
-* Masrer's Degree: Flight operations Management
-* Professional retraining: Android applications developer
-
 #### Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/nika43702) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gHBV4J5N) 
@@ -99,7 +94,7 @@ App developed according to task with recommended technical stack:
   * Retrofit
 
 #### 2023
-### 📚 Training projects | Учебные проекты:
+### 📚 Training projects:
 - 🖼️ A Java application created for educational purposes that converts images from a URL into ASCII art (i.e., text made up of various characters that collectively resemble the image). 
 [github.com/Veronika43702/Graphic-Converter](https://github.com/Veronika43702/Graphic-Converter)  
 The server-side part was created by an educational institution.
