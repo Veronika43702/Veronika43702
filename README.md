@@ -69,8 +69,13 @@ Android-developer
 
 
 ---
+### 📂 Working Projects
+#### 2025 [AISA IT-Service](https://www.linkedin.com/company/aisa-it-service/?trk=ppro_cprof)
+- [Sirius-educational environment (Google Play)](https://play.google.com/store/apps/details?id=ru.aisa.android.ecps&hl=en)
+- [Морошка (Google Play)](https://play.google.com/store/apps/details?id=ru.aisa.android.yanao&hl=en)
 
-### 📂 My projects
+
+### 📂 My own projects
 #### 2025
 - 🌍 KMP library for Yandex mapkit map
 [github.com/Veronika43702/yandex-mapkit-kmp](https://github.com/Veronika43702/yandex-mapkit-kmp).  
@@ -111,5 +116,6 @@ App developed according to task with recommended technical stack:
 - 🖼️ A Java application created for educational purposes that converts images from a URL into ASCII art (i.e., text made up of various characters that collectively resemble the image). 
 [github.com/Veronika43702/Graphic-Converter](https://github.com/Veronika43702/Graphic-Converter)  
 The server-side part was created by an educational institution.
+
 
 
