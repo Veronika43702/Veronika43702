@@ -77,6 +77,14 @@ Android-developer
 
 ### 📂 My own projects
 #### 2025
+- 🇪🇺 TravelTracker – app for tourists to monitor their stay under the EU 90/180 rule  
+[github.com/Veronika43702/travel-tracker(android)](https://github.com/Veronika43702/Travel-Tracker)  
+[github.com/Veronika43702/travel-tracker(ios)](https://github.com/Veronika43702/Travel-Tracker-Ios)  
+The app helps manage trips and stay compliant with the EU 90/180-day rule.  
+It stores visas and trips in a database, visualizes allowed days in Europe with a custom calendar, and helps travelers plan without stress.  
+This project is also being developed for iOS — my very first project for this platform, as I’m expanding my skills beyond Android.  
+
+
 - 🌍 KMP library for Yandex mapkit map
 [github.com/Veronika43702/yandex-mapkit-kmp](https://github.com/Veronika43702/yandex-mapkit-kmp).  
 KMP library enables to use Yandex mapkit API in KMP projects for both android and ios platforms, using composable functions.
@@ -116,6 +124,7 @@ App developed according to task with recommended technical stack:
 - 🖼️ A Java application created for educational purposes that converts images from a URL into ASCII art (i.e., text made up of various characters that collectively resemble the image). 
 [github.com/Veronika43702/Graphic-Converter](https://github.com/Veronika43702/Graphic-Converter)  
 The server-side part was created by an educational institution.
+
 
 
 
